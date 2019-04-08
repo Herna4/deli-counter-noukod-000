@@ -23,7 +23,7 @@ def take_a_number(array, line)
    
 end
 
-def now_serving(katz_deli)
+def now_serving(next_person)
   
   if katz_deli.empty
    puts "There is nobody waiting to be served!"
